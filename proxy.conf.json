@@ -1,0 +1,6 @@
+{
+  "/single": {
+    "target": "https://api.mailboxvalidator.com/v1/validation",
+    "secure": false
+  }
+}
